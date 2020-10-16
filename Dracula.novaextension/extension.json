@@ -1,0 +1,11 @@
+{
+  "identifier": "panic.Dracula",
+  "name": "Dracula",
+  "organization": "Dracula",
+  "description": "Dark theme for Nova",
+  "version": "1.3",
+  "categories": ["themes"],
+  "license": "MIT",
+  "repository": "https://github.com/bdielman/nova",
+  "bugs": "https://github.com/bdielman/nova/issues"
+}

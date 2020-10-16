@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Nova](https://nova.app)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Nova](https://nova.app).
 
 ![Screenshot](./screenshot.png)
 
@@ -10,11 +10,11 @@ All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/bdielman/nova/graphs/contributors).
 
-[![Harrison Heck](https://avatars0.githubusercontent.com/u/1037526?v=3&s=70)](https://github.com/nesl247) | [![Zeno Rocha](https://avatars2.githubusercontent.com/u/398893?v=3&s=70)](https://github.com/zenorocha)
+[![Brad Dielman](https://avatars1.githubusercontent.com/u/94547?s=460&v=4)](https://github.com/bdielman) | [![Kyle Rimkus](https://avatars3.githubusercontent.com/u/1053658?s=460&u=68d65d5782aaf257817383cf1a353eba285c2e39&v=4)](https://github.com/krimkus)
 --- | ---
-[Harrison Heck](https://github.com/nesl247) | [Zeno Rocha](https://github.com/zenorocha)
+[Brad Dielman](https://github.com/bdielman) | [Kyle Rimkus](https://github.com/krimkus)
 
 ## License
 
