@@ -79,7 +79,7 @@ meta.text.selected {
 
 /* Cursor */
 meta.cursor {
-  background-color: #282a36;
+  background-color: #44475a;
 }
 
 /* Indentation Guides */
@@ -185,7 +185,7 @@ string {
   color: #f1fa8c;
 }
 string.key {
-  color: #50fa7b;
+  color: #8be9fd;
 }
 string-template {
   color: #ffb86c;
@@ -200,7 +200,7 @@ regex.escaped {
   color: #ff79c6;
 }
 cdata {
-  color: #66b3ff;
+  color: #8be9fd;
 }
 
 /* Markup */
@@ -211,7 +211,7 @@ markup.line {
   color: #f1fa8c;
 }
 markup.bold {
-  color: #66b3ff;
+  color: #8be9fd;
 }
 markup.italic {
   color: #50fa7b;
@@ -223,7 +223,7 @@ markup.list.item {
   color: #f1fa8c;
 }
 markup.code {
-  color: #63cce3;
+  color: #8be9fd;
 }
 
 /* Types */
@@ -234,7 +234,7 @@ definition.enum enum.name,
 definition.union union.name,
 definition.struct struct.name {
   font-weight: bold;
-  color: #a085de;
+  color: #bd93f9;
 }
 
 /* Members */
@@ -249,7 +249,7 @@ tag {
   color: #ff79c6;
 }
 tag.framework {
-  color: #a085de;
+  color: #bd93f9;
 }
 tag.attribute.name {
   color: #50fa7b;

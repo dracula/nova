@@ -1,3 +1,7 @@
+## Version 1.4.0
+
+Move repo for theme, update colors to match spec, add line highlight
+
 ## Version 1.3.0
 
 Updated colors to match VSCode version more closely - Kyle Rimkus/Aaron Moodie
