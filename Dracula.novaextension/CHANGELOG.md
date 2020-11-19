@@ -1,3 +1,7 @@
+## Version 1.4.1
+
+Fix broken link to image preview
+
 ## Version 1.4.0
 
 Move repo for theme, update colors to match spec, add line highlight

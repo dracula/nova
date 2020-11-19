@@ -2,7 +2,7 @@
 
 > A dark theme for [Nova](https://nova.app).
 
-![Screenshot](./Images/extension/screenshot.png)
+<img src="https://raw.githubusercontent.com/bdielman/nova/main/Dracula.novaextension/Images/extension/screenshot.png" width="600" alt="Dracula Screenshot">
 
 ## Install
 
