@@ -1,3 +1,8 @@
+## Version 1.5.0
+
+- UI update to increase the contrast with borders for the window theme.
+- Fix issue with bright black ANSI color in the terminal. All terminal colors were updated to be more inline with the spec.
+
 ## Version 1.4.1
 
 Fix broken link to image preview
