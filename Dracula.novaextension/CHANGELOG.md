@@ -1,3 +1,7 @@
+## Version 1.5.1
+
+Fix a few loose ends from the previous release.
+
 ## Version 1.5.0
 
 - UI update to increase the contrast with borders for the window theme.
