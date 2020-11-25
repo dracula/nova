@@ -9,12 +9,12 @@ meta {
  */
 meta.window {
   background-color: #21222c;
-  border-color: rgba(0, 0, 0, 0.1);
+  border-color: #44475a;
 }
 meta.titlebar {
   color: #f8f8f2;
   background-color: #282a36;
-  border-color: rgba(0, 0, 0, 0.6);
+  border-color: #44475a;
 }
 meta.titlebar.inactive {
   background-color: #21222c;
@@ -41,7 +41,7 @@ meta.button.disabled {
 }
 meta.textfield {
   background-color: #202224;
-  border-color: #17181a;
+  border-color: #44475a;
 }
 
 /*
@@ -306,51 +306,51 @@ style.value.keyword {
 
 /* Terminal */
 terminal.bright-black {
-  color: rgb(0, 0, 0);
+  color: #44475a;
 }
 terminal.bright-red {
-  color: rgb(255, 85, 85);
+  color: #ff6e67;
 }
 terminal.bright-green {
-  color: rgb(80, 250, 123);
+  color: #5af78e;
 }
 terminal.bright-yellow {
-  color: rgb(241, 250, 140);
+  color: #f4f99d;
 }
 terminal.bright-blue {
-  color: rgb(202, 169, 250);
+  color: #caa9fa;
 }
 terminal.bright-magenta {
-  color: rgb(255, 121, 198);
+  color: #ff92d0;
 }
 terminal.bright-cyan {
-  color: rgb(139, 233, 253);
+  color: #9aedfe;
 }
 terminal.bright-white {
-  color: rgb(191, 191, 191);
+  color: #f8f8f2;
 }
 
 terminal.black {
-  color: rgb(40, 42, 53);
+  color: #282a36;
 }
 terminal.red {
-  color: rgb(255, 110, 103);
+  color: #ff5555;
 }
 terminal.green {
-  color: rgb(90, 247, 142);
+  color: #50fa7b;
 }
 terminal.yellow {
-  color: rgb(244, 249, 157);
+  color: #f1fa8c;
 }
 terminal.blue {
-  color: rgb(202, 169, 250);
+  color: #bd93f9;
 }
 terminal.magenta {
-  color: rgb(255, 146, 208);
+  color: #ff79c6;
 }
 terminal.cyan {
-  color: rgb(154, 237, 254);
+  color: #8be9fd;
 }
 terminal.white {
-  color: rgb(230, 230, 230);
+  color: #bfbfbf;
 }

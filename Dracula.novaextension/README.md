@@ -1,6 +1,6 @@
-# Dracula for [Nova](https://nova.app)
+# Dracula for Nova
 
-> A dark theme for [Nova](https://nova.app).
+> A dark theme for Nova.
 
 <img src="https://raw.githubusercontent.com/bdielman/nova/main/Dracula.novaextension/Images/extension/screenshot.png" width="600" alt="Dracula Screenshot">
 
