@@ -1,11 +1,11 @@
 {
-  "identifier": "panic.Dracula",
-  "name": "Dracula",
+  "identifier": "dracula.Dracula",
+  "name": "Dracula Official",
   "organization": "Dracula",
   "description": "Dark theme for Nova",
-  "version": "1.5.1",
+  "version": "2.0.0",
   "categories": ["themes"],
   "license": "MIT",
-  "repository": "https://github.com/bdielman/nova",
-  "bugs": "https://github.com/bdielman/nova/issues"
+  "repository": "https://github.com/dracula/nova",
+  "bugs": "https://github.com/dracula/nova/issues"
 }

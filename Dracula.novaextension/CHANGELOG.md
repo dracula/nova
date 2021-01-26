@@ -1,3 +1,9 @@
+## Version 2.0.0
+
+- Transfer theme to Dracula Organization
+- Update repo urls to point to the theme's new home
+- Updates to markdown and Javascript syntax highlighting
+
 ## Version 1.5.1
 
 Fix a few loose ends from the previous release.

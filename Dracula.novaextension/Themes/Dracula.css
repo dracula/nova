@@ -143,9 +143,7 @@ value.symbol {
 }
 
 /* Identifiers */
-identifier.type,
-identifier.constant,
-identifier.decorator {
+identifier.type {
   color: #8be9fd;
   font-style: italic;
 }
@@ -156,12 +154,10 @@ identifier.type.protocol {
   color: #8be9fd;
 }
 identifier.variable {
-  color: #bd93f9;
-  font-style: italic;
+  color: #f8f8f2;
 }
 identifier.constant {
-  color: #8be9fd;
-  font-style: italic;
+  color: #bd93f9;
 }
 identifier.function {
   color: #50fa7b;
@@ -179,6 +175,10 @@ identifier.argument {
   color: #ffb86c;
   font-style: italic;
 }
+identifier.decorator {
+  color: #50fa7b;
+  font-style: italic;
+}
 
 /* Strings */
 string {
@@ -194,7 +194,7 @@ string-template.value {
   color: #8be9fd;
 }
 regex {
-  color: #f1fa8c;
+  color: #ff5555;
 }
 regex.escaped {
   color: #ff79c6;
@@ -206,23 +206,32 @@ cdata {
 /* Markup */
 markup.heading {
   color: #bd93f9;
+  font-weight: bold;
 }
 markup.line {
   color: #f1fa8c;
 }
 markup.bold {
-  color: #8be9fd;
+  color: #ffb86c;
+  font-weight: bold;
 }
 markup.italic {
-  color: #50fa7b;
+  color: #f1fa8c;
+  font-style: italic;
 }
 markup.strikethrough {
-  color: #ff6666;
+  color: #ff5555;
 }
 markup.list.item {
-  color: #f1fa8c;
+  color: #8be9fd;
+}
+markup.link {
+  color: #ff79c6;
 }
 markup.code {
+  color: #50fa7b;
+}
+markup.block.quote {
   color: #8be9fd;
 }
 

@@ -12,13 +12,13 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-1. `$ git clone https://github.com/bdielman/nova.git`
+1. `$ git clone https://github.com/dracula/nova.git`
 2. Navigate to the nova directory
 3. Activate the theme
 
 #### Install manually
 
-1. Download using the [GitHub .zip download](https://github.com/bdielman/nova/archive/master.zip) option and unzip
+1. Download using the [GitHub .zip download](https://github.com/dracula/nova/archive/master.zip) option and unzip
 2. Navigate to the nova directory
 3. Activate the theme
 
