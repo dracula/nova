@@ -127,7 +127,7 @@ link {
 
 /* Values */
 value.boolean {
-  color: #8be9fd;
+  color: #bd93f9;
 }
 value.null {
   color: #8be9fd;
@@ -254,14 +254,15 @@ definition.method method.name {
 }
 
 /* Tags */
-tag {
+tag.name {
   color: #ff79c6;
 }
 tag.framework {
-  color: #bd93f9;
+  color: #ff79c6;
 }
 tag.attribute.name {
   color: #50fa7b;
+  font-style: italic;
 }
 tag.attribute.value {
   color: #f1fa8c;
@@ -295,13 +296,20 @@ style.selector.pseudoclass {
   font-style: italic;
 }
 style.selector.pseudoelement {
-  color: #f8f8f2;
+  color: #50fa7b;
+  font-style: italic;
 }
 style.attribute.name {
   color: #8be9fd;
 }
+style.attribute.separator {
+  color: #ff79c6;
+}
 style.value.number {
   color: #bd93f9;
+}
+style.value.number.unit {
+  color: #ff79c6;
 }
 style.value.color.hex {
   color: #bd93f9;
@@ -311,6 +319,19 @@ style.value.color.named {
 }
 style.value.keyword {
   color: #bd93f9;
+}
+style.value.keyword.important {
+  color: #ff79c6;
+}
+
+/* Ruby */
+ruby.identifier.constant {
+  color: #8be9fd;
+  font-style: italic;
+}
+ruby.identifier.variable.instance {
+  color: #bd93f9;
+  font-style: italic;
 }
 
 /* Terminal */
