@@ -1,3 +1,11 @@
+## Version 2.1.1
+
+- Update version number on extension config
+
+## Version 2.1.0
+
+- Updates for tag, style, and Ruby syntax highlighting
+
 ## Version 2.0.0
 
 - Transfer theme to Dracula Organization
