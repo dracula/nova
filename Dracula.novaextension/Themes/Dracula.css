@@ -188,7 +188,7 @@ string.key {
   color: #8be9fd;
 }
 string-template {
-  color: #ffb86c;
+  color: #ff79c6;
 }
 string-template.value {
   color: #8be9fd;
@@ -254,7 +254,7 @@ definition.method method.name {
 }
 
 /* Tags */
-tag.name {
+tag {
   color: #ff79c6;
 }
 tag.framework {
@@ -275,9 +275,6 @@ tag.attribute.value.link {
 style.at {
   color: #ff79c6;
   font-weight: bold;
-}
-style.selector {
-  color: #50fa7b;
 }
 style.selector.element {
   color: #ff79c6;
@@ -322,6 +319,15 @@ style.value.keyword {
 }
 style.value.keyword.important {
   color: #ff79c6;
+}
+style.value.identifier.function {
+  color: #8be9fd;
+}
+style.media-query-list.keyword.media-type {
+  color: #bd93f9;
+}
+style.media-feature.keyword {
+  color: #8be9fd;
 }
 
 /* Ruby */

@@ -1,3 +1,7 @@
+## Version 2.2.0
+
+- Revert tag change, updates to styles syntax highlighting
+
 ## Version 2.1.1
 
 - Update version number on extension config
