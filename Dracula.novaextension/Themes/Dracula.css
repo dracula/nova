@@ -340,6 +340,21 @@ ruby.identifier.variable.instance {
   font-style: italic;
 }
 
+/* Javascript */
+javascript.single-quoted.escape,
+javascript.double-quoted.escape {
+  color: #ff79c6;
+}
+
+/* JSX/TSX */
+jsx.tag.framework.open,
+jsx.tag.framework.close,
+tsx.tag.framework.open,
+tsx.tag.framework.close {
+  color: #8be9fd;
+  font-style: italic;
+}
+
 /* Terminal */
 terminal.bright-black {
   color: #44475a;

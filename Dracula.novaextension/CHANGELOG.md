@@ -1,3 +1,8 @@
+## Version 2.3.0
+
+- Update style for JSX/TSX component references
+- Minor fix for styling strings in JS
+
 ## Version 2.2.0
 
 - Revert tag change, updates to styles syntax highlighting
