@@ -4,6 +4,43 @@ meta {
   -theme-accent-color: auto;
 }
 
+/* Reference colors from the Dracula spec
+:root {
+  Standard: https://spec.draculatheme.com
+  -------------------------
+  --background:  #282a36;
+  --foreground:  #f8f8f2;
+  --selection:  #44475a;
+  --comment:  #6272a4;
+  --red:  #ff5555;
+  --orange:  #ffb86c;
+  --yellow:  #f1fa8c;
+  --green:  #50fa7b;
+  --purple:  #bd93f9;
+  --cyan:  #8be9fd;
+  --pink: #ff79c6;
+
+  ANSI: https://github.com/dracula/dracula-theme/issues/232#issuecomment-321979481
+  -------------------------
+  --ansi-black: #282a36;
+  --ansi-red: #ff5555;
+  --ansi--green: #50fa7b;
+  --ansi-yellow: #f1fa8c;
+  --ansi-blue:  #bd93f9;
+  --ansi-magenta: #ff79c6;
+  --ansi-cyan: #8be9fd;
+  --ansi-white: #bfbfbf;
+  --ansi-bright-black: #44475a;
+  --ansi-bright-red: #ff6e67;
+  --ansi-bright-green: #5af78e;
+  --ansi-bright-yellow: #f4f99d;
+  --ansi-bright-blue: #caa9fa;
+  --ansi-bright-magenta: #ff92d0;
+  --ansi-bright-cyan: #9aedfe;
+  --ansi-bright-white: #f8f8f2;
+}
+*/
+
 /*
  * Window styles
  */

@@ -1,3 +1,9 @@
+## Version 2.4.0
+
+- Change style for document declarations
+- Update style for invisible characters - Rob Anderson
+- Add references for Dracula colors (standard/ANSI)
+
 ## Version 2.3.0
 
 - Update style for JSX/TSX component references
