@@ -136,9 +136,6 @@ meta.gutter.selected {
 /*
  * Syntax styles
  */
-keyword {
-  color: #ff79c6;
-}
 comment {
   color: #6272a4;
 }
@@ -155,11 +152,19 @@ operator {
   color: #ff79c6;
 }
 invalid {
-  background-color: #ff79c6;
-  color: #f8f8f2;
+  color: #ff5555;
 }
 link {
   color: #8be9fd;
+}
+
+/* Keywords */
+keyword {
+  color: #ff79c6;
+}
+keyword.self {
+  color: #bd93f9;
+  font-style: italic;
 }
 
 /* Values */
@@ -167,7 +172,7 @@ value.boolean {
   color: #bd93f9;
 }
 value.null {
-  color: #8be9fd;
+  color: #bd93f9;
 }
 value.number {
   color: #bd93f9;
@@ -203,7 +208,7 @@ identifier.method {
   color: #50fa7b;
 }
 identifier.property {
-  color: #50fa7b;
+  /* color: #50fa7b; */
 }
 identifier.key {
   color: #8be9fd;
@@ -377,9 +382,23 @@ ruby.identifier.variable.instance {
   font-style: italic;
 }
 
+/* PHP */
+php.type.identifier.name {
+  color: #ff79c6;
+}
+
 /* Javascript */
 javascript.single-quoted.escape,
 javascript.double-quoted.escape {
+  color: #ff79c6;
+}
+javascript.definition.constant {
+  color: #bd93f9;
+}
+javascript.identifier.key.name {
+  color: #f8f8f2;
+}
+javascript.colon {
   color: #ff79c6;
 }
 
@@ -390,6 +409,42 @@ tsx.tag.framework.open,
 tsx.tag.framework.close {
   color: #8be9fd;
   font-style: italic;
+}
+
+/* HTML */
+html.tag {
+  color: #f8f8f2;
+}
+html.tag.name {
+  color: #ff79c6;
+}
+html.tag.attribute.name {
+  color: #50fa7b;
+  font-style: italic;
+}
+html.tag.attribute.value {
+  color: #f1fa8c;
+}
+html.tag.attribute.operator {
+  color: #ff79c6;
+}
+
+/* XML */
+xml.tag {
+  color: #f8f8f2;
+}
+xml.tag.name {
+  color: #ff79c6;
+}
+xml.tag.attribute.name {
+  color: #50fa7b;
+  font-style: italic;
+}
+xml.tag.attribute.value {
+  color: #f1fa8c;
+}
+xml.tag.attribute.operator {
+  color: #ff79c6;
 }
 
 /* Terminal */
