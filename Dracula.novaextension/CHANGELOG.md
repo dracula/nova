@@ -1,3 +1,8 @@
+## Version 2.5.1
+
+- Replace screenshot for extension view
+- Optimize images
+
 ## Version 2.5.0
 
 - Bring syntax highlighting closer to spec for various languages
