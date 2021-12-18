@@ -1,3 +1,8 @@
+## Version 2.5.0
+
+- Bring syntax highlighting closer to spec for various languages
+- Update screenshot to reflect changes
+
 ## Version 2.4.0
 
 - Change style for document declarations
